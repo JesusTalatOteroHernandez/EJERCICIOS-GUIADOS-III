@@ -9,3 +9,8 @@
 | Nearpods Conjuntos | [Nearpods Conjuntos](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-III/blob/ead01456625254e6ebc0a70091d2594cff20ae4a/Ejercicios%20guiados/Nearpods%20Conjuntos.pdf) |
 | Nearpods Diccionarios | [Nearpods Diccionarios](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-III/blob/ead01456625254e6ebc0a70091d2594cff20ae4a/Ejercicios%20guiados/Nearpods%20Diccionarios.pdf) |
 | Mapa Mental | [Mapa Mental](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-III/blob/8d118522c7dd5b26e1d15e0cda63a2e0e7ec3eef/Ejercicios%20guiados/Mapa%20Mental.pdf) |
+
+# Evidencia de limpieza en el mega parque
+| Actividad | Evidencias |
+|-----------|------------|
+| Fotografia de evidencia | [Foto](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-GUIADOS-III/blob/9fcac1269dc96cfd7cf94e8d7ffedfffd52aa090/fotos/Evidencia%20de%20limpieza%20en%20el%20mega%20parque.jpeg) |
